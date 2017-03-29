@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_id">HalfLifeCalci</string>
+    <string name="app_id">HalfLifeCalculator</string>
     <string name="app_name">Half Life Calci</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
